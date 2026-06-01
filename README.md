@@ -36,6 +36,10 @@ Deliverable
 
 * Market Research Report (PDF)
 
+Project File
+
+[TASK 1 Report](TASK 1.pdf)
+
 Key Learning Outcomes
 
 * Market Research Techniques

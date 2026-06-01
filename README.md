@@ -53,4 +53,5 @@ Conclusion
 This report helped in understanding Swiggy’s business strategy, strengths, weaknesses, competitors, and market trends. It also provided insights into consumer behavior and the food delivery industry.
 
 Created by: Sriram S
+
 Internship: CodeAlpha – Business & Marketing Strategy
